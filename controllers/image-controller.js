@@ -1,6 +1,6 @@
 const grid = require('gridfs-stream');
 const mongoose = require('mongoose');
-const url = '';
+const url = 'https://bloggingservices-backend.onrender.com';
 
 
 
